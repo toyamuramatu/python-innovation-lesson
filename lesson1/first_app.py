@@ -1,0 +1,16 @@
+import streamlit as st
+
+st.title("村松燈弥")
+st.header("私の好きな物MY FAVORITE THINGS")
+st.write("1.ラーメンNOODLE🍜")
+st.write("2.マインクラフトMINECRAFT🧱")
+st.write("3.マリオカートMARIOCARTWORLD🏎️")
+st.header("今日のまとめ")
+st.write("今日学んだことは、ターミナルについて、変数の復習、streamlitの使い方、などです。")
+st.write("理解できたことはターミナルからファイルを選んでプログラムを実行することと、")
+st.write("//や**などの新しい演算記号、cdなどのショートカットの方法、")
+st.write("streamlitを使ってページを作成することなどです。")
+st.write("注意点は、ターミナルから実行するときは")
+st.write("フォルダとファイルをセットで書かないといいけないことや、")
+st.write("変数にできる文字に制限があることなどです。")
+st.write("翻訳で遊ぶことが楽しかったです。")
